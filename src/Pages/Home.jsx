@@ -1,7 +1,6 @@
 import React from 'react'
 import Hero from '../Components/Hero'
-import SpecialityMenu from '../Components/specialityMenu'
-import { specialityData } from '../assets/assets_frontend/assets'
+import SpecialityMenu from '../Components/SpecialityMenu'
 import TopDoctors from '../Components/TopDoctors'
 import Banner from '../Components/Banner'
 
